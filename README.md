@@ -18,15 +18,12 @@ The dashboard was designed to answer the following business questions:
 
 ## Key Features
 ### Overall Performance Dashboard
-- Spend analysis by category, manufacturer, and country of origin
-- Procurement savings tracking
+- Spend and savings analysis by category, manufacturer, and country of origin
 - Compliance monitoring
 - Open PO monitoring
 - PR-to-PO lead time analysis
-- Procurement trend analysis
 
 ### Supplier Performance Dashboard
-- Supplier spend distribution
 - Delivery status tracking (Early / On Time / Late)
 - Overdue PO monitoring
 - Risk matrix for supplier performance evaluation
@@ -43,9 +40,22 @@ The dashboard was designed to answer the following business questions:
 | WAPT            | Weighted Average Payment Term                                  |
 
 
-## Data Preparation
-### Tools Used
+## Skills Demonstrated
+### Tools used
 - Power BI
-- Power Query (M Language)
-- DAX
-- Microsoft Excel
+- Power Query (M)
+- AI for prompting DAX
+- KPI Design
+- Dashboard Development
+- Data Modeling
+
+### Procurement Data Analysis
+- Supplier Performance Management
+- Procurement Process Analysis
+- Lead Time Analysis
+- Supply Risk Assessment
+
+### Business Analysis
+- Root Cause Analysis
+- PESTLE Analysis
+- Strategic Recommendation Development
