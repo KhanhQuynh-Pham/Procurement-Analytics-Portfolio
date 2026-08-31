@@ -5,7 +5,7 @@ A collection of dashboards and business presentations from my work in a pharmace
 # Procurement KPI Dashboard
 ## Overview
 This project is a Power BI dashboard developed to monitor procurement performance for laboratory-related purchases in the pharmaceutical industry.
-The dashboard provides visibility into spending, savings, supplier performance, purchasing compliance, procurement lead time, and delivery risks, enabling data-driven decision making for procurement and supply chain teams.
+The dashboard provides visibility into overall procurement performance, supplier performance, procurement lead time, and delivery risks, enabling data-driven decision making for procurement and supply chain teams.
 
 ## Business Objectives
 The dashboard was designed to answer the following business questions:
@@ -44,16 +44,6 @@ The dashboard was designed to answer the following business questions:
 
 
 ## Data Preparation
-### Power Query was used to:
-- Clean procurement transaction records
-- Standardize supplier names
-- Standardize manufacturer names
-- Map procurement master data
-- Calculate savings metrics
-- Calculate procurement lead time
-- Calculate delivery performance indicators
-- Remove duplicate transactions
-
 ### Tools Used
 - Power BI
 - Power Query (M Language)
