@@ -59,3 +59,9 @@ The dashboard was designed to answer the following business questions:
 - Root Cause Analysis
 - PESTLE Analysis
 - Strategic Recommendation Development
+
+<img width="1038" height="583" alt="Screenshot 2026-08-31 121002" src="https://github.com/user-attachments/assets/ee30d1ed-450a-48b4-9fb4-534f03aef55a" />
+
+<img width="1117" height="631" alt="Screenshot 2026-08-31 121608" src="https://github.com/user-attachments/assets/d2e3f38c-8a0b-4519-a852-f1928c84ed6c" />
+
+
