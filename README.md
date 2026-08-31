@@ -1,4 +1,4 @@
-# Procurement-Analytics-Portfolio-Show-more-lines
+# Procurement-Analytics-Portfolio
 A collection of dashboards and business presentations from my work in a pharmaceutical multinational company
 
 
