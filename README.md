@@ -71,4 +71,4 @@ The dashboard was designed to answer the following business questions:
 
 ---
 
-For the full business context behind this dashboard — including the regulatory root cause analysis and proposed solutions — see the accompanying **Learning Portfolio** presentation in this repository.
+For the full business context behind this dashboard, please see the accompanying **Learning Portfolio** presentation in this repository.
