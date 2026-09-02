@@ -45,9 +45,6 @@ The dashboard was designed to answer the following business questions:
 - Power BI
 - Power Query (M)
 - AI for prompting DAX
-- KPI Design
-- Dashboard Development
-- Data Modeling
 
 ### Procurement Data Analysis
 - Supplier Performance Management
