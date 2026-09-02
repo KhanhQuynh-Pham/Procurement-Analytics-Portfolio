@@ -45,18 +45,6 @@ The dashboard was designed to answer the following business questions:
 - Risk matrix for supplier performance evaluation
 - Supplier benchmarking
 
-## Key KPIs
-
-| KPI | Description |
-|---|---|
-| Spend | Total purchasing value |
-| Savings | Cost reduction achieved |
-| Compliance | Procurement compliance rate |
-| Open PO | Number of active purchase orders |
-| PR-PO Lead Time | Average processing time between requisition and purchase order |
-| Late % | Percentage of delayed deliveries |
-| WAPT | Weighted Average Payment Term |
-
 ## Skills Demonstrated
 
 ### Tools Used
