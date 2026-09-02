@@ -67,7 +67,7 @@ The dashboard was designed to answer the following business questions:
 
 <img width="1038" height="583" alt="Overall Performance Dashboard" src="https://github.com/user-attachments/assets/ee30d1ed-450a-48b4-9fb4-534f03aef55a" />
 
-<img width="1117" height="631" alt="Supplier Performance Dashboard" src="https://github.com/user-attachments/assets/d2e3f38c-8a0b-4519-a852-f1928c84ed6c" />
+<img width="1117" height="626" alt="Vendor Performance Dashboard" src="https://github.com/user-attachments/assets/e3b271ce-5890-4a55-b506-73800ee83021" />
 
 ---
 
